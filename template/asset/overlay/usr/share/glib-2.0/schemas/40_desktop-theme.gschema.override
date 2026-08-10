@@ -1,0 +1,13 @@
+
+
+[org.gnome.desktop.interface]
+color-scheme='prefer-dark'
+gtk-theme='Mint-L-Dark-Red'
+icon-theme='Canta-Numix-Circle-Dark'
+cursor-theme='Bibata-Modern-Classic'
+cursor-size=24
+
+
+[org.gnome.desktop.wm.preferences]
+theme='Mint-L-Dark-Red'
+

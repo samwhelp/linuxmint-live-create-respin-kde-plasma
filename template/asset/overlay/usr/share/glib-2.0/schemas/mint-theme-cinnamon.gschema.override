@@ -1,0 +1,17 @@
+[org.cinnamon.desktop.interface]
+gtk-key-theme='Default'
+gtk-theme='Mint-L-Dark-Red'
+icon-theme='Canta-Numix-Circle-Dark'
+cursor-theme='Bibata-Modern-Classic'
+font-name="Sans 12"
+scaling-factor=uint32 0
+
+[org.cinnamon.desktop.wm.preferences]
+theme='Mint-L-Dark-Red'
+button-layout=':minimize,maximize,close'
+titlebar-font="Ubuntu Medium 10"
+titlebar-uses-system-font=false
+num-workspaces=4
+
+[org.cinnamon.theme]
+name='Mint-L-Dark-Red'

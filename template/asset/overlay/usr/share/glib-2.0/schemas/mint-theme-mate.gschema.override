@@ -1,0 +1,17 @@
+[org.mate.interface]
+gtk-theme="Mint-L-Dark-Red"
+icon-theme="Canta-Numix-Circle-Dark"
+font-name="Sans 12"
+monospace-font-name="Monospace 12"
+document-font-name="Sans 12"
+menus-have-icons=true
+buttons-have-icons=false
+enable-animations=false
+
+[org.mate.Marco.general]
+theme="Mint-L-Dark-Red"
+button-layout=":minimize,maximize,close"
+titlebar-font="Ubuntu Medium 10"
+num-workspaces=4
+center-new-windows=true
+compositing-manager=true
